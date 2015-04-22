@@ -1,0 +1,10 @@
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\bin\Debug\buu.exe.config
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\bin\Debug\buu.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\bin\Debug\buu.pdb
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.csprojResolveAssemblyReference.cache
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.Form1.resources
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.Form2.resources
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.Properties.Resources.resources
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.csproj.GenerateResource.Cache
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.exe
+c:\users\sheikh\documents\visual studio 2013\Projects\buu\buu\obj\Debug\buu.pdb
